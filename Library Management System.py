@@ -1,19 +1,19 @@
-ABOUT PROGRAM:
-The Library Book Program contains:
-1) Add books
-•	function to identify if added book id already exist.
-2)View books
-•	to check and show all available book in library.
-•	to show if the books are issued or available.
-3)Search books
-•	to search books in library through name or author
-4)Issue books
-•	to check whether the book is available or issued
-•	ask the name of the student borrowing it.
-5)Return book
-•	check whether the book is actually issued and return it to available book list.
-6)EXIT
-•	To exit the program.
+#ABOUT PROGRAM:
+#The Library Book Program contains:
+#1) Add books
+# •	function to identify if added book id already exist.
+#2)View books
+# •	to check and show all available book in library.
+# •	to show if the books are issued or available.
+#3)Search books
+# •	to search books in library through name or author
+#4)Issue books
+# •	to check whether the book is available or issued
+# •	ask the name of the student borrowing it.
+#5)Return book
+# •	check whether the book is actually issued and return it to available book list.
+#6)EXIT
+# •	To exit the program.
 
 
 
